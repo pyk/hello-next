@@ -1,0 +1,11 @@
+# Next.js build directory
+.next
+
+# Node.js modules
+node_modules
+
+# Visual Studio Code
+hello-next.code-workspace
+
+# macOS
+.DS_Store
